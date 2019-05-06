@@ -1,2 +1,2 @@
-# learninglualove
-# learninglualove
+# Learning lua with the game library LOVE
+
